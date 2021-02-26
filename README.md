@@ -5,3 +5,4 @@ I'm mittens, a self-taught tech-enthusiast and programmer. learning, creating an
 - :telescope: always onto something simple
 - :rocket: spacelegion member
 
+[![img](assets/mittens.gif)](https://mr-mittens.github.io)
