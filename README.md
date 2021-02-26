@@ -5,4 +5,3 @@ I'm mittens, a self-taught tech-enthusiast and programmer. learning, creating an
 - :telescope: always onto something simple
 - :rocket: spacelegion member
 
-![](https://komarev.com/ghpvc/?username=mr-mittens&label=Profile+views&color=green&style=flat-square)
