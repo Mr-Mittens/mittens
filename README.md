@@ -1,6 +1,11 @@
-**Hello there :smirk_cat:**
+<div align="right">
+  <b>  ➖ ✖️</b>
+</div>
 
+<div align="center">
+  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=54F724&random=false&width=435&lines=%24+hello+friend+!;%24+you+can+call+me+Mr.+M+;%24+thanks+for+stopping+by+XD"/>
 
-I'm Mittens, a self-taught tech-enthusiast, programmer, and data analytics enthusiast. Learning, creating, researching, and delving into the world of data analytics is my passion. I am a staunch advocate of decentralization, privacy, security, and free software. Let's unlock the potential of data together! 🚀
+<sub><a href="https://asteroidex.com">🔖 Web & Archives  </a> | <a href="https://ko-fi.com/zoulvigil">🖇️ Support</a> </a> </sub>
 
-[![img](assets/mittens.gif)](https://mr-mittens.github.io)
+  </div>
